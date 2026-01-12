@@ -15,6 +15,7 @@ dependencies {
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
     implementation("org.apache.commons:commons-compress:1.28.0")
 
+    implementation("commons-beanutils:commons-beanutils:1.11.0")
     implementation("org.apache.commons:commons-configuration2:2.13.0")
 }
 
